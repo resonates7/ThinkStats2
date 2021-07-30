@@ -16,7 +16,7 @@ import pandas as pd
 import warnings
 
 # customize some matplotlib attributes
-#matplotlib.rc('figure', figsize=(4, 3))
+matplotlib.rc('figure', figsize=(10, 8))
 
 #matplotlib.rc('font', size=14.0)
 #matplotlib.rc('axes', labelsize=22.0, titlesize=22.0)
